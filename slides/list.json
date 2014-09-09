@@ -1,0 +1,28 @@
+[
+    "index.md",
+    "table-of-contents.md",
+    "what-is-orenono.md",
+    "how-to-install-orenono.md",
+    [
+        "how-to-set-syntax.md",
+        "how-to-set-syntax2.md",
+        "how-to-set-syntax3.md",
+        "how-to-set-syntax4.md",
+        "how-to-set-syntax5.md",
+        "how-to-set-syntax6.md",
+        "how-to-set-syntax7.md"
+    ],
+    [
+        "shuzo.md",
+        "shuzo1.md",
+        "shuzo2.md",
+        "shuzo3.md"
+    ],
+    [
+        "nonomura.md",
+        "nonomura1.md",
+        "nonomura2.md",
+        "nonomura3.md"
+    ],
+    "wrap-up.md"
+]
